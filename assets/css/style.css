@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 10px;
+  min-height: 100vh;
+}
+
+footer {
+  background-color: gray;
+  color: white;
+  padding: 20px;
+  /* Posicionamiento */
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+small {
+  display: block;
+}
+
+
